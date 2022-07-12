@@ -1,6 +1,6 @@
 # mvc-rest-api
 
-changing to clean
+changed to clean
 
 - controller: handle http request, response
 - query: sql query to get data from database
